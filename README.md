@@ -6,7 +6,6 @@ A full-stack Todo Task Management Web Application built for a hackathon submissi
 
 - Social Login using Google OAuth
 - Full CRUD for personal tasks
-- JWT-based Authentication
 - Responsive UI using Material-UI
 - Ready for deployment on free-tier platforms
 - User-specific task listing
